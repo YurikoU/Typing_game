@@ -3,9 +3,9 @@ let wordElement = document.getElementById("word");
 
 //Store word list
 let wordList = [
-    'Hello World',
+    'Hello World!',
     'Hi Siri',
-    'OK Google',
+    'I love JavaScript',
     'Good morning',
     'This is my demo',
 ];
